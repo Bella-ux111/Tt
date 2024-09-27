@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Click to Read My Confession</title>
+</head>
+<body>
+    <h1>Click below to see my confession:</h1>
+    <!-- This hyperlink will open a Google search in a new tab -->
+    <a href="https://www.google.com/search?q=Dags" target="_blank">Click to search for Dags on Google</a>
+</body>
+</html>
